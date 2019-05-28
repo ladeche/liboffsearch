@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=<#VERSION#>
+Name=Liboffsearch
+GenericName=Search in ODF documents
+GenericName[fr]=Recherche dans les documents ODF
+Exec=liboffsearch
+Icon=liboffsearch.png
+Terminal=false
+Type=Application
+Categories=Office;Utility
+Keywords=Office;Utility;ODF Files; Search
+StartupNotify=true

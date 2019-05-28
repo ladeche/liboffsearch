@@ -1,0 +1,10 @@
+liboffsearch (0.6.5) trusty; urgency=low
+
+  * Major Refactoring
+  * Now it is possible to add extensions on a "plugin" style
+  * So file extensions and languages are managed in properties files as customizable lists
+  * and operational are added as scripts in resources/shellsNo need to change java source.
+  * Light review of GUI design
+  
+
+ -- Laurent Dechambe <laurent.dechambe@wanadoo.fr>  Tue, 7 Dec 2014 22:01:00 +0200

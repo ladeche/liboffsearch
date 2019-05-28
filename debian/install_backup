@@ -1,0 +1,12 @@
+liboffsearch /usr/bin
+liboffsearch-0.5.0.jar /usr/lib/liboffsearch
+resources/config.properties /usr/lib/liboffsearch/resources
+resources/shells/lo_search.sh /usr/lib/liboffsearch/resources/shells
+resources/shells/lo_open_file.sh /usr/lib/liboffsearch/resources/shells
+resources/shells/pdf_open_file.sh /usr/lib/liboffsearch/resources/shells
+resources/shells/pdf_search.sh /usr/lib/liboffsearch/resources/shells
+resources/shells/doc_search.sh /usr/lib/liboffsearch/resources/shells
+resources/media/fr.gif /usr/lib/liboffsearch/resources/media
+resources/media/gb.jpg /usr/lib/liboffsearch/resources/media
+liboffsearch.desktop /usr/share/applications
+liboffsearch.png /usr/share/pixmaps

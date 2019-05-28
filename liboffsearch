@@ -1,0 +1,5 @@
+#!/bin/bash
+LIBDIR="/usr/lib/liboffsearch"
+export CLASSPATH="$LIBDIR/liboffsearch-<#VERSION#>.jar:$LIBDIR/resources"
+
+java org.ladeche.liboffsearch.LOSGui

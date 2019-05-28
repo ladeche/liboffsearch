@@ -1,0 +1,11 @@
+liboffsearch /usr/bin
+liboffsearch.desktop /usr/share/applications
+liboffsearch.png /usr/share/pixmaps
+liboffsearch-0.6.0.jar /usr/lib/liboffsearch
+resources/confignew.properties /usr/lib/liboffsearch/resources
+resources/config.properties /usr/lib/liboffsearch/resources
+resources/config.properties.prod /usr/lib/liboffsearch/resources
+resources/lang.properties /usr/lib/liboffsearch/resources
+resources/logback.xml /usr/lib/liboffsearch/resources
+resources/media /usr/lib/liboffsearch/resources
+resources/shells /usr/lib/liboffsearch/resources

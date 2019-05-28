@@ -1,0 +1,14 @@
+Source: liboffsearch
+Section: utils
+Priority: optional
+Maintainer: Laurent Dechambe <laurent.dechambe@wanadoo.fr>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: http://liboffsearch.unblog.fr/
+#Vcs-Browser: https://github.com/ladeche/liboffsearch
+
+Package: liboffsearch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, openjdk-7-jre (>=7), catdoc (>=0.8)
+Description: A simple application to search through libre office files and some other formats.
+ This application allows you to search for a word or a phrase in a collection of libre office files and some other formats.
